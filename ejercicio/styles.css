@@ -62,3 +62,19 @@
     width: 30%;
     border: 1px solid black;
 }
+
+#contenido > h1 {
+    text-align: center;
+    border-bottom:1px solid #ccc ;
+}
+
+#contenido .caja{
+    width: 40%;
+    height: 250px;
+    background-color: red;
+    border: 5px solid blue;
+    color: white;
+    float: left;
+    margin:20px;
+    margin-left: 40px;
+}
