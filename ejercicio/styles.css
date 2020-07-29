@@ -50,3 +50,15 @@
 #menu ul li:hover a{
     color: white;
 }
+
+#contenido{
+    width: 60%;
+    float: left;
+    border: 1px solid green;
+}
+
+#lateral{
+    float: left;
+    width: 30%;
+    border: 1px solid black;
+}
