@@ -54,13 +54,14 @@
 #contenido{
     width: 60%;
     float: left;
-    border: 1px solid green;
 }
 
 #lateral{
     float: left;
     width: 30%;
     border: 1px solid black;
+    min-width: 300px;
+    text-align: center;
 }
 
 #contenido > h1 {
@@ -77,4 +78,14 @@
     float: left;
     margin:20px;
     margin-left: 40px;
+}
+
+#footer{
+    width: 100%;
+    height: 55px;
+    line-height: 55px;
+    background: #eee;
+    text-align: center;
+    color:#444;
+    border-top: 1px solid #ccc;
 }
