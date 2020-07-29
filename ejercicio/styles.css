@@ -1,5 +1,12 @@
 *{
     margin: 0px;
     padding: 0px;
-    direction: none;
+    text-decoration: none;
+}
+
+#general{
+    width: 1200px;
+    border:1px solid red;
+    margin:0 auto;
+    margin-top: 20px;
 }
