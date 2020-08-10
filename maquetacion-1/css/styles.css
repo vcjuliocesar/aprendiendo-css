@@ -32,6 +32,14 @@ a:hover{
 a:visited{
     color: #529152;
 }
+
+.red{
+    color:#9b2422 !important;
+}
+
+.blue{
+    color:#0c73f2 !important;
+}
 /*Formularios*/
 input[type="text"],
 input[type="email"],
